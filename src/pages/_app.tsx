@@ -1,6 +1,8 @@
 // Packages imports
 import type { AppProps } from 'next/app'
 import Head from 'next/head'
+import { SmileySad } from "phosphor-react";
+
 // Components imports
 import Header from '../components/Header'
 import Player from '../components/Player'
@@ -18,6 +20,8 @@ export default function MyApp({ Component, pageProps }: AppProps) {
         <title>Podcast</title>
       </Head>
       
+      <div className={styles.mobile}>Aplicativo disponível apenas para telas maiores...<SmileySad size={50}/></div>
+
       <div className={styles.container}>
         <div className={styles.contentContainer}>
           <Header />
