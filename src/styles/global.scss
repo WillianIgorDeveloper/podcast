@@ -17,7 +17,27 @@
 
 /*========== Variables ==========*/
 :root {
-    /*========== # ==========*/
+    /*========== Colors ==========*/
+
+    --blue-60: hsl(206, 77%, 60%);
+    --blue-65: hsl(206, 77%, 65%);
+    --blue-70: hsl(206, 77%, 70%);
+    --blue-80: hsl(206, 77%, 80%);
+
+    --gray-13: hsl(0, 0%, 13%);
+    --gray-20: hsl(0, 0%, 20%);
+    --gray-30: hsl(0, 0%, 30%);
+    --gray-40: hsl(0, 0%, 40%);
+    --gray-60: hsl(0, 0%, 60%);
+    --gray-80: hsl(0, 0%, 80%);
+    --gray-93: hsl(0, 0%, 93%);
+
+    --black-purple-25: hsl(265, 10%, 25%);
+    --black-purple-75: hsl(265, 10%, 75%);
+    
+    --purple-30: hsl(265, 100%, 30%);
+    --purple-65: hsl(265, 100%, 65%);
+    --purple-55: hsl(265, 100%, 55%);
 }
 
 
@@ -31,6 +51,10 @@
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
+}
+body {
+    color: var(--gray-93);
+    background-color: var(--gray-13);
 }
 img {
     width: 100%;

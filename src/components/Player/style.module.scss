@@ -1,0 +1,66 @@
+.player {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    width: 23rem;
+    min-height: 100vh;
+
+    background-image: linear-gradient(var(--purple-65), var(--purple-55));
+
+    .displayImage{
+        width: 12rem;        
+        height: 12rem;     
+        display: flex;
+        align-items: center;
+        text-align: center;
+
+        border-radius: 16px;
+        border: 4px dashed var(--purple-30);
+
+        font-weight: 400;
+        color: var(--black-purple-75);
+    }
+    .mediaContainer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 1rem;
+        gap: 1rem;
+
+        .timerBar{
+            width: 12rem;
+            height: 1px;
+
+            border: 2px solid var(--gray-80);
+            border-radius: 20px;
+        }
+        .playerTimer{
+            display: flex;
+            align-items: center;
+            gap: .5rem;
+
+            span{
+                font-weight: 400;
+            }
+        }
+        .mediaIcons{
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+
+            button{
+                background-color: unset;
+                border: unset;
+                color: var(--gray-90);
+
+                &:hover{
+                    cursor: pointer;
+                    color: var(--gray-60);
+                }
+            }
+        }
+    }
+}
