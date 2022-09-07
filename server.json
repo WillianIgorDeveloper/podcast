@@ -1,0 +1,48 @@
+{
+    "episodes": [
+        {
+            "id": "tudo-ao-mesmo-tempo-agora",
+            "title": "Tudo Ao Mesmo Tempo Agora!",
+            "thumbnail": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/08/nc845_tudo_agora__v903kth-1210x544.jpg",
+            "description": "Neste podcast: Não foi só mais um filme de multiverso. Finalmente chegou o NerdCast que é uma verdadeira ode ao filme TUDO AO MESMO TEMPO AGORA!",
+            "file": {
+                "url": "https://nerdcast-cdn.jovemnerd.com.br/nerdcast_845_everything_everywhere.mp3",
+                "type": "audio/mp3",
+                "duration": 106
+            }
+        },
+        {
+            "id": "tudo-ao-mesmo-tempo-agora-01",
+            "title": "Tudo Ao Mesmo Tempo Agora! - 01",
+            "thumbnail": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/08/nc845_tudo_agora__v903kth-1210x544.jpg",
+            "description": "Neste podcast: Não foi só mais um filme de multiverso. Finalmente chegou o NerdCast que é uma verdadeira ode ao filme TUDO AO MESMO TEMPO AGORA!",
+            "file": {
+                "url": "https://nerdcast-cdn.jovemnerd.com.br/nerdcast_845_everything_everywhere.mp3",
+                "type": "audio/mp3",
+                "duration": 106
+            }
+        },
+        {
+            "id": "tudo-ao-mesmo-tempo-agora-02",
+            "title": "Tudo Ao Mesmo Tempo Agora! - 02",
+            "thumbnail": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/08/nc845_tudo_agora__v903kth-1210x544.jpg",
+            "description": "Neste podcast: Não foi só mais um filme de multiverso. Finalmente chegou o NerdCast que é uma verdadeira ode ao filme TUDO AO MESMO TEMPO AGORA!",
+            "file": {
+                "url": "https://nerdcast-cdn.jovemnerd.com.br/nerdcast_845_everything_everywhere.mp3",
+                "type": "audio/mp3",
+                "duration": 106
+            }
+        },
+        {
+            "id": "tudo-ao-mesmo-tempo-agora-03",
+            "title": "Tudo Ao Mesmo Tempo Agora! - 03",
+            "thumbnail": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/08/nc845_tudo_agora__v903kth-1210x544.jpg",
+            "description": "Neste podcast: Não foi só mais um filme de multiverso. Finalmente chegou o NerdCast que é uma verdadeira ode ao filme TUDO AO MESMO TEMPO AGORA!",
+            "file": {
+                "url": "https://nerdcast-cdn.jovemnerd.com.br/nerdcast_845_everything_everywhere.mp3",
+                "type": "audio/mp3",
+                "duration": 106
+            }
+        }
+    ]
+}
