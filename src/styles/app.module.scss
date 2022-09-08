@@ -1,15 +1,16 @@
-.container{
+.mobile {
+    display: none;
+}
 
+.container{
     display: flex;
 
+    
     .contentContainer{
         flex: 1;
     }
 }
 
-.mobile {
-    display: none;
-}
 
 @media (max-width: 1000px) {
     .mobile {
@@ -30,6 +31,5 @@
         font-size: 1.5rem;
 
         background-color: var(--gray-13);
-
     }
 }

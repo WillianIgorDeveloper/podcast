@@ -18,7 +18,7 @@
 /*========== Variables ==========*/
 :root {
     /*========== Colors ==========*/
-
+    --blue-30: hsl(206, 77%, 30%);
     --blue-60: hsl(206, 77%, 60%);
     --blue-65: hsl(206, 77%, 65%);
     --blue-70: hsl(206, 77%, 70%);
@@ -59,4 +59,21 @@ body {
 img {
     width: 100%;
     height: auto;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: .5rem;
+}
+
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: var(--gray-40); 
+    border-radius: 12px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: var(--gray-30); 
 }

@@ -5,43 +5,54 @@
             "title": "Tudo Ao Mesmo Tempo Agora!",
             "thumbnail": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/08/nc845_tudo_agora__v903kth-1210x544.jpg",
             "description": "Neste podcast: Não foi só mais um filme de multiverso. Finalmente chegou o NerdCast que é uma verdadeira ode ao filme TUDO AO MESMO TEMPO AGORA!",
+            "publishedAt": "2022-09-08 11:00:00",
             "file": {
                 "url": "https://nerdcast-cdn.jovemnerd.com.br/nerdcast_845_everything_everywhere.mp3",
-                "type": "audio/mp3",
-                "duration": 106
+                "duration": 7206
             }
         },
         {
-            "id": "tudo-ao-mesmo-tempo-agora-01",
-            "title": "Tudo Ao Mesmo Tempo Agora! - 01",
-            "thumbnail": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/08/nc845_tudo_agora__v903kth-1210x544.jpg",
-            "description": "Neste podcast: Não foi só mais um filme de multiverso. Finalmente chegou o NerdCast que é uma verdadeira ode ao filme TUDO AO MESMO TEMPO AGORA!",
+            "id": "o-poder-de-roma",
+            "title": "O poder de Roma",
+            "thumbnail": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/08/nc844_exercito_romano__0u0p2c-1210x544.jpg",
+            "description": "Neste podcast: Vamos discutir sobre a história de Roma focando nas grandes batalhas, territórios conquistados e potencial bélico ao longo de centenas de anos.",
+            "publishedAt": "2022-07-26",
             "file": {
                 "url": "https://nerdcast-cdn.jovemnerd.com.br/nerdcast_845_everything_everywhere.mp3",
-                "type": "audio/mp3",
-                "duration": 106
+                "duration": 7140
             }
         },
         {
-            "id": "tudo-ao-mesmo-tempo-agora-02",
-            "title": "Tudo Ao Mesmo Tempo Agora! - 02",
-            "thumbnail": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/08/nc845_tudo_agora__v903kth-1210x544.jpg",
-            "description": "Neste podcast: Não foi só mais um filme de multiverso. Finalmente chegou o NerdCast que é uma verdadeira ode ao filme TUDO AO MESMO TEMPO AGORA!",
+            "id": "sandman-estao-deixando-a-gente-sonhar",
+            "title": "Sandman: Estão deixando a gente sonhar",
+            "thumbnail": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/08/nc843_sandman_cover__w4i38fg9j-1210x544.jpg",
+            "description": "Neste podcast:“Mr. Sandman, bring me a dream…”  Hoje vamos falar tudo o que achamos da adaptação de Sandman que se tornou o mais novo sucesso da Netflix e campeão de memes! Será que podemos continuar sonhando com uma segunda temporada no mesmo nível?",
+            "publishedAt": "2022-07-19",
             "file": {
                 "url": "https://nerdcast-cdn.jovemnerd.com.br/nerdcast_845_everything_everywhere.mp3",
-                "type": "audio/mp3",
-                "duration": 106
+                "duration": 8640
             }
         },
         {
-            "id": "tudo-ao-mesmo-tempo-agora-03",
-            "title": "Tudo Ao Mesmo Tempo Agora! - 03",
-            "thumbnail": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/08/nc845_tudo_agora__v903kth-1210x544.jpg",
-            "description": "Neste podcast: Não foi só mais um filme de multiverso. Finalmente chegou o NerdCast que é uma verdadeira ode ao filme TUDO AO MESMO TEMPO AGORA!",
+            "id": "as-profissoes-do-futuro/",
+            "title": "As profissões do futuro",
+            "thumbnail": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/08/nc842_profissoes_do_futuro__tm22j0-1210x544.jpg",
+            "description": "Neste podcast: O que esperar de um futuro onde a inteligência das máquinas e a força de trabalho vão estar diretamente atrelados? No programa de hoje, vamos descobrir o que esperar disso tudo e como se preparar.",
+            "publishedAt": "2022-07-12",
             "file": {
                 "url": "https://nerdcast-cdn.jovemnerd.com.br/nerdcast_845_everything_everywhere.mp3",
-                "type": "audio/mp3",
-                "duration": 106
+                "duration": 7206
+            }
+        },
+        {
+            "id": "stranger-things-4-parte-2-o-upside-hawkins/",
+            "title": "Stranger Things 4 (parte 2): O Upside Hawkins",
+            "thumbnail": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/08/nc841_stranger_things_4_pt2__98u2cl-1210x544.jpg",
+            "description": "Neste podcast: Sim, nerds! Vocês votaram, vocês pediram, então toma! Stranger Things Parte 2! Venha ouvir sobre os dois últimos e longuíssimos episódios da quarta temporada!",
+            "publishedAt": "2022-07-05",
+            "file": {
+                "url": "https://nerdcast-cdn.jovemnerd.com.br/nerdcast_845_everything_everywhere.mp3",
+                "duration": 7206
             }
         }
     ]

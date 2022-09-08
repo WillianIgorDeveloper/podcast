@@ -3,7 +3,11 @@ import { Play, Shuffle, SkipBack, SkipForward, Repeat } from "phosphor-react";
 //SCSS imports
 import styles from './style.module.scss'
 
+
+
 export default function Player () {
+
+    
     return (
         <aside className={styles.player}>
             <div className={styles.displayImage}>
