@@ -1,0 +1,124 @@
+.feed {
+    height: calc(100vh - 4rem);
+    width: calc(100vw - 23rem);
+    padding: 2.5rem;
+
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+
+    overflow-y: scroll;
+
+    h2 {
+        margin-bottom: 1rem;
+    }
+    
+    .card {
+        padding: 1rem;
+
+        display: flex;
+        gap: .5rem;
+
+        box-shadow:
+            0px 0px 1.1px rgba(255, 255, 255, 0.280),
+            0px 0px 9px rgba(255, 255, 255, 0.200)
+        ;
+        border-radius: 12px;
+
+        img {
+            border-radius: 12px;
+        }
+
+        .textContainer {
+            width: 90%;
+            padding-left: .5rem;
+
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+
+            border-left: .25rem solid var(--blue-80);
+            
+            
+            .descriptionContainer {
+                width: 80%;
+
+                display: flex;
+                flex-direction: column;
+                
+                h3 {
+                    margin-bottom: .5rem;
+                    
+                    font-size: 1.25rem;
+                    font-weight: 700;
+                }
+                
+                
+                p {
+                    overflow: hidden;
+                    white-space: nowrap;
+                    text-overflow: ellipsis;
+
+                    font-size: 1rem;
+                    font-weight: 400;
+                }
+            }
+
+
+            .infoContainer{
+                display: flex;
+                flex-direction: column;
+                justify-content: end;
+                gap: .5rem;
+            }
+        }
+
+        &:hover {
+            cursor: pointer;
+            background-color: var(--blue-30);
+        }
+
+        &.destaque {
+            padding: 2rem;
+
+            gap: 1rem;
+    
+            .textContainer {
+                width: 75%;
+                padding-left: 2rem;
+
+                flex-direction: column;
+                align-items: unset;
+                justify-content: space-around;
+                
+                .descriptionContainer {
+                    width: 100%;
+    
+                    h3 {
+                        font-size: 2rem;
+                    }
+                    
+                    p {
+                        font-size: 1.25rem;
+                    }
+                }
+    
+    
+                .infoContainer{
+                    align-self: flex-end;
+
+                    font-size: 1.5rem;
+                }
+            }
+        }
+    }
+
+    .allEpsodes {
+        ul {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+    }
+}

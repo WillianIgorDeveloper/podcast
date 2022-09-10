@@ -1,5 +1,4 @@
 .header {
-
     height: 4rem;
     padding: 1.5rem;
     
@@ -13,14 +12,16 @@
         0px 0px 22px hsla(0, 0%, 50%, 0.3);
   
 
-
     .container{
         display: flex;
         align-items: center;
 
+
         img {
             width: 2rem;
         }
+
+
         h1{
             margin-left: .5rem;
 
@@ -29,6 +30,7 @@
         }
     }
 
+    
     p{
         font-weight: 300;
     }
